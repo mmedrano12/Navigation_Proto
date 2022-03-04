@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Navigation_proto</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Library</string>
+    <string name="second_fragment_label">Builder</string>
+    <string name="history_page_label">History</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Library Still Under Construction</string>
+    <string name="hello_second_fragment">Builder Still Under Construction</string>
+    <string name="text_history_page_fragment">History Still Under Construction</string>
+    <string name="toast_button_text">Toast</string>
+    <string name="builder">Builder</string>
+    <string name="history">History</string>
+    <string name="library">Library</string>
+</resources>
